@@ -1,1 +1,1 @@
-Привет, GitHub
+Yo, GitHub
